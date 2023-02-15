@@ -8,5 +8,7 @@ According to studies, there are six primary signs and symptoms of cervical cance
 The required modules for this project are –
 
 Numpy(1.22.4) – pip install numpy
+
 Tensorflow(2.9.0) – pip install TensorFlow
+
 OpenCV(4.6.0) – pip install cv2
